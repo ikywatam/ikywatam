@@ -1,1 +1,1 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikywatam&label=Profile%20views&color=0e75b6&style=flat" alt="ikywatam" /> </p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
